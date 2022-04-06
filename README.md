@@ -5,3 +5,4 @@ diff
 Git has a mutable index called stage.
 ```
 test
+Git tracks changes.
