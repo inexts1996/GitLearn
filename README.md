@@ -8,3 +8,4 @@ test
 Git tracks changes.
 Creating a new branch is quick.
 test1
+Creating a new branch is quick & simple.
